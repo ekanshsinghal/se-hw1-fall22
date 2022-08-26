@@ -3,7 +3,7 @@
 
 ![MIT license](https://img.shields.io/badge/License-MIT-green.svg)
 ![GitHub](https://img.shields.io/badge/Language-Python-blue.svg)
-![Build](https://github.com/.github/actions/workflows/python-package.yml/badge.svg)
+![Build](https://github.com/ekanshsinghal/se-hw1-fall22/actions/workflows/python-package.yml/badge.svg)
 
 ## About the project
 
