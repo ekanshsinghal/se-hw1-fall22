@@ -1,4 +1,4 @@
-# se-hw1-fall22
+# se-hw1-fall22 - Basic Calculator
 
 
 ![MIT license](https://img.shields.io/badge/License-MIT-green.svg)
