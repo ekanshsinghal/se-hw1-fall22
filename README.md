@@ -1,5 +1,9 @@
 # se-hw1-fall22
 
+
+![MIT license](https://img.shields.io/badge/License-MIT-green.svg)
+![GitHub](https://img.shields.io/badge/Language-Python-blue.svg)
+
 ## About the project
 
 This project implements a basic calculator with the following functionalities:
