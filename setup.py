@@ -7,7 +7,7 @@ setup(
     license='MIT',
     description='A basic calculator for addition, subtraction, multiplication, division, and modulus operations',
     author='Supriya, Gowtham, Rahul, Ekansh',
-    install_requires=[],
+    install_requires=['pytest'],
     setup_requires=['pytest-runner'],
     tests_require=['pytest']
 )
