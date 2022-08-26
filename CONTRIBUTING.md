@@ -3,7 +3,7 @@
 We appreciate you for contributing to this repository. Please use the following information as guidelines on how to contribute to this repo.
 
 ## Setting up development environment
-You will need to set up Python. As of now, no specific libraries in Python are required.
+You will need to set up Python 3.6 or greater and pip (or pip3). The packages used by this project can be installed using the [Installation Guide](https://github.com/ekanshsinghal/se-hw1-fall22#installation)
 
 ## What can you contribute?
 If you find any bugs, please fix it or report to us on GitHub. If you can improve the code by adding new functionalities, refactoring the code or any other improvements, please feel free to do so. Any help will be highly appreciated.
