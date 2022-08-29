@@ -1,0 +1,16 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rangarajan Kannan"
+  given-names: "Rahul"
+- family-names: "Arulselvan"
+  given-names: "Gowtham Sathyan"
+- family-names: "Krishna"
+  given-names: "Supriya"
+- family-names: "Singhal"
+  given-names: "Ekansh"
+title: "Basic calculator application"
+version: 1.0.0
+doi: 10.5281/zenodo.7026894
+date-released: 2022-08-27
+url: "https://github.com/ekanshsinghal/se-hw1-fall22"
