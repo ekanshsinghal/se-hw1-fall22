@@ -9,7 +9,7 @@ def calculate(value1, value2, operation):
     elif operation == '/':
         result = value1 / value2
     elif operation == '%':
-        result = value1 % value2
+        result = value1 / value2
     return result
 
 if __name__ == "__main__":
